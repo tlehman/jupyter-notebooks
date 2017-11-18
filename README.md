@@ -9,7 +9,7 @@ as:
 > their economic and political institutions.
 
 The two kinds of institutions they mention, economic and political, demand different measures. 
-For political institutions, I chose the [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index), where the lowest values (< 4) correspond to authoritarian countries, and the highest scores 
+For political institutions, I chose the [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index), where the lowest scores (< 4) correspond to authoritarian countries, and the highest scores 
 (>= 8) correspond to full democracies. For the record, the U.S. is at 7.98, which means it is 
 categorized as a flawed democracy, not a full democracy.
 
@@ -22,8 +22,13 @@ We will use the Democracy Index (0 - 10) and the Index of Economic Freedom (0 - 
 to the range (0 - 1), then multiplied together, to represent "economic and political inclusivity".
 
 Then, we will use per-capita GDP (at purchasing-power parity) as the measure of the how rich 
-people of that country are. Please keep in mind these are proxies for the relavant variables, 
+people of that country are. Please keep in mind these are proxies for the relevant variables, 
 but that this sort of analysis is far better than just agreeing or disagreeing with the thesis 
 based on your subjective response to the book's 
 arguments. If these two variables turn out to be uncorrelated, we can pretty much reject the book
 outright. Otherwise, we should engage the arguments and study the limits of the theory.
+
+Sources:
+ - Index of Economic Freedom: https://en.wikipedia.org/wiki/Index_of_Economic_Freedom
+ - Democracy Index: https://en.wikipedia.org/wiki/Democracy_Index
+ - List of Countries by GDP per capita (PPP): https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
